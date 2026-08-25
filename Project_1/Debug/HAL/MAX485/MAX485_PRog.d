@@ -1,0 +1,18 @@
+HAL/MAX485/MAX485_PRog.d HAL/MAX485/MAX485_PRog.o: \
+ ../HAL/MAX485/MAX485_PRog.c ../HAL/MAX485/../../Lib/STD_TYPES.h \
+ ../HAL/MAX485/../../Lib/BIT_MATH.h \
+ ../HAL/MAX485/../../MCAL/DIO/DIO_INterface.h \
+ ../HAL/MAX485/../../MCAL/UART/UART_INterface.h \
+ ../HAL/MAX485/MAX485_INterface.h ../HAL/MAX485/MAX485_CFG.h
+
+../HAL/MAX485/../../Lib/STD_TYPES.h:
+
+../HAL/MAX485/../../Lib/BIT_MATH.h:
+
+../HAL/MAX485/../../MCAL/DIO/DIO_INterface.h:
+
+../HAL/MAX485/../../MCAL/UART/UART_INterface.h:
+
+../HAL/MAX485/MAX485_INterface.h:
+
+../HAL/MAX485/MAX485_CFG.h:

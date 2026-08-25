@@ -1,0 +1,11 @@
+MCAL/UART/UART_PRog.d MCAL/UART/UART_PRog.o: ../MCAL/UART/UART_PRog.c \
+ ../MCAL/UART/../../Lib/STD_TYPES.h ../MCAL/UART/../../Lib/BIT_MATH.h \
+ ../MCAL/UART/UART_INterface.h ../MCAL/UART/UART_REG.h
+
+../MCAL/UART/../../Lib/STD_TYPES.h:
+
+../MCAL/UART/../../Lib/BIT_MATH.h:
+
+../MCAL/UART/UART_INterface.h:
+
+../MCAL/UART/UART_REG.h:
